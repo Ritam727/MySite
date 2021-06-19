@@ -27,14 +27,34 @@ h2 {
     padding-top: 100px;
 }
 
-.middle-container {
-}
-
-.bottom-container {
-}
-
 .pro {
     text-decoration: underline;
+}
+
+h3 {
+    color: #66BFBF;
+    font-size: 25px;
+}
+
+.skill-row {
+    position: relative;
+    text-align: left;
+    margin: 100px auto 100px;
+    line-height: 2;
+    width: 50%;
+}
+
+.compe {
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+    width: 25%;
+}
+
+.dev {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
 }
 
 .top-cloud {
